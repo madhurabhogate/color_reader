@@ -10,3 +10,4 @@ lib/
 .idea/
 .python-version
 .DS_Store
+__pycache__
