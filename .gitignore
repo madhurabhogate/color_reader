@@ -1,0 +1,12 @@
+mainwindow_ui.py
+.pyc
+*.egg-info/
+*.egg
+bin/
+build/
+dist/
+eggs/
+lib/
+.idea/
+.python-version
+.DS_Store
